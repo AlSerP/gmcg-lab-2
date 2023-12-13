@@ -1,7 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <functional>
-#include "RClass.h"
 #include "imgui-SFML.h"
 #include "imgui.h"
 
